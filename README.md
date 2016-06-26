@@ -8,4 +8,6 @@ simple mastermind game for a job interview.
 
 2. Navigate to installed directory
 
-3. ```python3 mastermind.py```
+3. Enter:
+
+ ```python3 mastermind.py```
